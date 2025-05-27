@@ -1,2 +1,2 @@
 # learning_log 
-yay
+elp
